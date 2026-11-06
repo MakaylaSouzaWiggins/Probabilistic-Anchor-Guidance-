@@ -157,4 +157,4 @@ The experiment was programmed in Python using the SR Research EyeLink eye-tracki
 
 ## Contact
 
-For questions about the data or code, please contact Makayla Souza-Wiggins at mhsouza@ucdavis.edu.
+For questions about the data or code, please contact author.
