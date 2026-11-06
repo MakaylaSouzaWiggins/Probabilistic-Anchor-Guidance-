@@ -1,8 +1,5 @@
 # Anchor objects provide probabilistic guidance during visual search
 
-**Authors:** Makayla Souza-Wiggins and Joy J. Geng  
-**Affiliation:** University of California, Davis  
-
 This repository contains the data, analysis code, and experiment code accompanying the journal article.
 
 ---
